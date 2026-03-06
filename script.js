@@ -6,7 +6,7 @@ const accessCodeInputEl = document.getElementById("accessCodeInput");
 const unlockButtonEl = document.getElementById("unlockButton");
 const codeErrorEl = document.getElementById("codeError");
 
-const ACCESS_CODE = "210226";
+const ACCESS_CODE = "678969";
 
 const texts = [
     "Hey cutie van meeee 😝",
@@ -45,27 +45,27 @@ const texts = [
 ];
 
 const images = [
-    "images/Schermafbeelding 2026-03-06 004320.png",
-    "images/Schermafbeelding 2026-03-06 020210.png",
-    "images/Schermafbeelding 2026-03-06 020358.png",
-    "images/Schermafbeelding 2026-03-06 021632.png",
-    "images/Schermafbeelding 2026-03-06 021016.png",
-    "images/Schermafbeelding 2026-03-06 004320.png",
-    "images/Schermafbeelding 2026-03-06 021016.png",
-    "images/Schermafbeelding 2026-03-06 004522.png",
-    "images/Schermafbeelding 2026-03-06 020210.png",
-    "images/Schermafbeelding 2026-03-06 020358.png",
-    "images/Schermafbeelding 2026-03-06 020535.png",
-    "images/Schermafbeelding 2026-03-06 020838.png",
-    "images/Schermafbeelding 2026-03-06 021016.png",
-    "images/Schermafbeelding 2026-03-06 021112.png",
-    "images/Schermafbeelding 2026-03-06 021146.png",
-    "images/Schermafbeelding 2026-03-06 021219.png",
-    "images/Schermafbeelding 2026-03-06 021301.png",
-    "images/Schermafbeelding 2026-03-06 021355.png",
-    "images/Schermafbeelding 2026-03-06 021429.png",
-    "images/Schermafbeelding 2026-03-06 021535.png",
-    "images/Schermafbeelding 2026-03-06 021632.png",
+    "Schermafbeelding 2026-03-06 004320.png",
+    "Schermafbeelding 2026-03-06 020210.png",
+    "Schermafbeelding 2026-03-06 020358.png",
+    "Schermafbeelding 2026-03-06 021632.png",
+    "Schermafbeelding 2026-03-06 021016.png",
+    "Schermafbeelding 2026-03-06 004320.png",
+    "Schermafbeelding 2026-03-06 021016.png",
+    "Schermafbeelding 2026-03-06 004522.png",
+    "Schermafbeelding 2026-03-06 020210.png",
+    "Schermafbeelding 2026-03-06 020358.png",
+    "Schermafbeelding 2026-03-06 020535.png",
+    "Schermafbeelding 2026-03-06 020838.png",
+    "Schermafbeelding 2026-03-06 021016.png",
+    "Schermafbeelding 2026-03-06 021112.png",
+    "Schermafbeelding 2026-03-06 021146.png",
+    "Schermafbeelding 2026-03-06 021219.png",
+    "Schermafbeelding 2026-03-06 021301.png",
+    "Schermafbeelding 2026-03-06 021355.png",
+    "Schermafbeelding 2026-03-06 021429.png",
+    "Schermafbeelding 2026-03-06 021535.png",
+    "Schermafbeelding 2026-03-06 021632.png",
 ];
 
 let index = 0;
